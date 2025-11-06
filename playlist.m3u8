@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://7pal.short.gy/alex-epg"
+#EXTM3U
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
